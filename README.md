@@ -1,7 +1,7 @@
 ## Hi there 👋
 I build free Unity tools, make games, and occasionally experiment with procedural art 😝
 
-### Projects 🌱
+### Projects 🚀
 - [Conifer Init ⚙️🌲](https://github.com/xyperine/Conifer-Init) - Unity plugin for automating project setup  
 - [Icons Creator 📸🖼️](https://github.com/xyperine/Icons-Creator) - Tool for creating icons of 3D objects in Unity
 - [Games 🎮](https://xyperine.itch.io/)
