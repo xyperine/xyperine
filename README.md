@@ -8,7 +8,7 @@ I build free Unity tools, make games, and occasionally experiment with procedura
 - [Art 🎨](https://editor.p5js.org/xyperine/sketches)
 
 ### Support 💝
-If you like my work, consider supporting me! Every donation helps me spend more time builing free tools and games 😄
+If you like my work, consider supporting me! Every donation helps me spend more time building free tools and games 😄
 
 [![buy-me-a-bitcoffee](https://img.shields.io/badge/Buy%20Me%20a%20BitCoffee-f7931a?logo=bitcoin&logoColor=white&color=f7931a&style=for-the-badge&label=Donate)](https://buymeabitcoffee.vercel.app/btc/bc1qtw2akv8ftzx0glczlghh8k328srfv2eqs08hyh?identifier=xyperine)
 
